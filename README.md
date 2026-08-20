@@ -47,4 +47,4 @@ Work runs on a five-machine homelab: a Ryzen 9950X3D / RTX 5090 workstation for 
 agent runs, an Apple Silicon node for always-on inference, and an Ubuntu server for reverse proxy,
 monitoring, and storage — with local LLM serving, vector search, and speech-to-text self-hosted.
 
-📍 Boone, NC · [savviety.com](https://savviety.com/)
+📍 Boone, NC · [savviety.ai](https://savviety.ai/)
